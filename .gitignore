@@ -3,3 +3,8 @@ node_modules
 uploads
 build
 
+node_modules
+.env
+uploads
+build
+
